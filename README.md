@@ -55,5 +55,5 @@ A REST API for a social media app. Built with Express, Mongoose, and MongoDB.
 
 ## Questions
 
-For any questions or concerns, please feel free to get with me via my email at [eskodad@yahoo.com](eskodad@yahoo.com) or on my [GitHub](https://www.github.com/Eskodad)
+For any questions or concerns, please feel free to get with me via my email at [eskodad@yahoo.com](mailto:eskodad@yahoo.com) or on my [GitHub](https://www.github.com/Eskodad)
 # social_media_api
